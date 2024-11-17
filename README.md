@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Komal-Dev-Ops
+# 👋 Hi, I’m @Komal
 
 - 👀 I’m interested in DevOps, cloud computing, and automation.
 - 🌱 I’m currently learning advanced Kubernetes and CI/CD pipelines.
